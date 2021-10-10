@@ -1,0 +1,1 @@
+Application that has multiple functions to display result.
